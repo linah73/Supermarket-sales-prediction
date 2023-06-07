@@ -1,2 +1,2 @@
-# Price_prediction
+# Supermarket Sales prediction
 Prescription drug Price-prediction
